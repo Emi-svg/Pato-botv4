@@ -7,7 +7,6 @@ const information = (prefix, botName, ownerName) => {
    ┠≽ *Prefix* : 「  ${prefix}  」
    ┠≽ *Creator* : ${ownerName}
    ┠≽ *Version* : 4
-   ┠≽ *Canal* : http://bit.ly/mrpato-yt
    ╿
 ┯┷ *〈 ABOUT 〉*
 ╽
